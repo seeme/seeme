@@ -1,7 +1,7 @@
 ### 專長
 :ant: Java Programming \
 :ant: DevOps \
-*:ant:SpringBoot \
+:ant:SpringBoot \
 :ant: Angular 
 
 ### 經歷
